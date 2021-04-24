@@ -15,7 +15,7 @@ Want to know more about me? [Check out my portfolio.](https://daemonstark.github
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/c4tbrilliantthoughts">
+<a href="https://github.com/DaemonStark">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaemonStarks&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
 </a>
 
