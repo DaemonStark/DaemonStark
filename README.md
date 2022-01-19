@@ -22,3 +22,5 @@ Want to know more about me? [Check out my portfolio.](https://daemonstark.github
 <a href="https://github.com/DaemonStark">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DaemonStark&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Ashutosh Deshpande's GitHub Stats" />
 </a>
+
+![Ashutosh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=DaemonStark&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
