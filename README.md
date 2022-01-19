@@ -8,20 +8,6 @@
 
 Want to know more about me? [Check out my portfolio.](https://daemonstark.github.io/)
 
-
-
-
-
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/DaemonStark">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaemonStark&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
-</a>
-
-<a href="https://github.com/DaemonStark">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DaemonStark&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Ashutosh Deshpande's GitHub Stats" />
-</a>
 <br>
 ### :zap: GitHub Stats
 <p align="center">&nbsp;
